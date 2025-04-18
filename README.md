@@ -28,6 +28,7 @@
 - - [x] 写 README
 - - [x] 异常处理(异常处理的两种方式，自定义异常)
 - - [x] Object类
+- - [x] Comparable和Comparator
 - - [ ] 持续学习中
 ## 内容
 - JavaSE示例代码
