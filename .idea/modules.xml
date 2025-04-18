@@ -4,9 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaSECode.iml" filepath="$PROJECT_DIR$/JavaSECode.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_API/module_API.iml" filepath="$PROJECT_DIR$/module_API/module_API.iml" />
-      <module fileurl="file://$PROJECT_DIR$/module_compareble/module_compareble.iml" filepath="$PROJECT_DIR$/module_compareble/module_compareble.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_exception/module_exception.iml" filepath="$PROJECT_DIR$/module_exception/module_exception.iml" />
-      <module fileurl="file://$PROJECT_DIR$/module_object/module_object.iml" filepath="$PROJECT_DIR$/module_object/module_object.iml" />
     </modules>
   </component>
 </project>

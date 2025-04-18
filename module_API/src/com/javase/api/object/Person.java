@@ -1,4 +1,4 @@
-package com.javase.object;
+package com.javase.api.object;
 
 import java.util.Objects;
 

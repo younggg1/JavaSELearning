@@ -1,4 +1,4 @@
-package com.javase.object;
+package com.javase.api.object;
 
 public class TestClone {
     public static void main(String[] args) throws CloneNotSupportedException {

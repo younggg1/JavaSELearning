@@ -1,12 +1,12 @@
-package com.javase.object;
+package com.javase.api.object;
 
 import java.util.ArrayList;
 
 public class TestToString {
     public static void main(String[] args) {
         Person p1 = new Person("金莲", 26);
-        System.out.println(p1);//com.javase.object.Person@3b07d329
-        System.out.println(p1.toString());//com.javase.object.Person@3b07d329
+        System.out.println(p1);//com.javase.api.object.Person@3b07d329
+        System.out.println(p1.toString());//com.javase.api.object.Person@3b07d329
 
         System.out.println("==============");
 

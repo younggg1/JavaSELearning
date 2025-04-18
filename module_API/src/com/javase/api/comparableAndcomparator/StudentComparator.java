@@ -1,4 +1,4 @@
-package com.javase;
+package com.javase.api.comparableAndcomparator;
 
 import java.util.Comparator;
 

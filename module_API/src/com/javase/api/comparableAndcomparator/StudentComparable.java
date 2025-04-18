@@ -1,4 +1,4 @@
-package com.javase;
+package com.javase.api.comparableAndcomparator;
 
 public class StudentComparable implements Comparable {
     private String name;

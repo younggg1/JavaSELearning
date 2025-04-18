@@ -1,4 +1,4 @@
-package com.javase;
+package com.javase.api.comparableAndcomparator;
 
 public class TestComparator {
     public static void main(String[] args) {
