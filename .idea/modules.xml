@@ -5,10 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/JavaSECode.iml" filepath="$PROJECT_DIR$/JavaSECode.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_API/module_API.iml" filepath="$PROJECT_DIR$/module_API/module_API.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_Collections/module_Collections.iml" filepath="$PROJECT_DIR$/module_Collections/module_Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_Exception/module_Exception.iml" filepath="$PROJECT_DIR$/module_Exception/module_Exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_Multithreading/module_Multithreading.iml" filepath="$PROJECT_DIR$/module_Multithreading/module_Multithreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_Thread/module_Thread.iml" filepath="$PROJECT_DIR$/module_Thread/module_Thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_Thread_Wait_Notify/module_Thread_Wait_Notify.iml" filepath="$PROJECT_DIR$/module_Thread_Wait_Notify/module_Thread_Wait_Notify.iml" />
-      <module fileurl="file://$PROJECT_DIR$/module_exception/module_exception.iml" filepath="$PROJECT_DIR$/module_exception/module_exception.iml" />
     </modules>
   </component>
 </project>
