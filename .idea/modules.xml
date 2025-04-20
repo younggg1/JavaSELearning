@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaSECode.iml" filepath="$PROJECT_DIR$/JavaSECode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module.Socket/module.Socket.iml" filepath="$PROJECT_DIR$/module.Socket/module.Socket.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_API/module_API.iml" filepath="$PROJECT_DIR$/module_API/module_API.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_Collections/module_Collections.iml" filepath="$PROJECT_DIR$/module_Collections/module_Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_Exception/module_Exception.iml" filepath="$PROJECT_DIR$/module_Exception/module_Exception.iml" />
