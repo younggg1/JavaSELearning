@@ -20,7 +20,7 @@ public class MyArrayList1<E> implements MyList<E>{
     }
 
     /**
-     * 定义一个get方法,根据索引获取元素
+     * 定义一个get方法,根据索引获取元素。
      */
     public E get(int index){
         return (E) obj[index];

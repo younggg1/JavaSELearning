@@ -11,7 +11,7 @@ public class MyArrayList <E>{
     /**
      * 定义一个add方法,参数类型需要和泛型类型保持一致
      *
-     * 数据类型为E  变量名随便取
+     * 数据类型为E ,变量名随便取
      */
     public boolean add(E e){
         obj[size] = e;

@@ -1,5 +1,5 @@
 package com.javase.genercity;
-
+//泛型接口
 public interface MyList <E>{
     public boolean add(E e);
 /*    1.格式:
