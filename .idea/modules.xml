@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/module_Genericity/module_Genericity.iml" filepath="$PROJECT_DIR$/module_Genericity/module_Genericity.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_IO/module_IO.iml" filepath="$PROJECT_DIR$/module_IO/module_IO.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_JDKNew/module_JDKNew.iml" filepath="$PROJECT_DIR$/module_JDKNew/module_JDKNew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_JUnit/module_JUnit.iml" filepath="$PROJECT_DIR$/module_JUnit/module_JUnit.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_Lombok/module_Lombok.iml" filepath="$PROJECT_DIR$/module_Lombok/module_Lombok.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_Multithreading/module_Multithreading.iml" filepath="$PROJECT_DIR$/module_Multithreading/module_Multithreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_Regex/module_Regex.iml" filepath="$PROJECT_DIR$/module_Regex/module_Regex.iml" />
