@@ -25,7 +25,7 @@
 - 熟悉 Git 的基本操作（如 `add`、`commit`、`push`、`branch/checkout`、`remote`等）。
 - 编写清晰的代码和文档，提升开发能力。
 ## 学习进度
-- - [x] 学习 Markdown
+- - [x] 学习 Markdown语法
 - - [x] 写 README
 - - [x] 面向对象核心编程思想
 - - [x] 异常处理
