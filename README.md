@@ -21,7 +21,7 @@
 - JUint单元测试
 - 反射
 - 注解
-
+- 枚举
 - 熟悉 Git 的基本操作（如 `add`、`commit`、`push`、`branch/checkout`、`remote`等）。
 - 编写清晰的代码和文档，提升开发能力。
 ## 学习进度
@@ -40,6 +40,7 @@
 - - [x] Lombok
 - - [x] JDK新特性
 - - [x] JUint单元测试
+- - [x] 反射
 - - [ ] 持续学习中
 ## 内容
 - JavaSE示例代码
