@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/module_JUnit/module_JUnit.iml" filepath="$PROJECT_DIR$/module_JUnit/module_JUnit.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_Lombok/module_Lombok.iml" filepath="$PROJECT_DIR$/module_Lombok/module_Lombok.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_Multithreading/module_Multithreading.iml" filepath="$PROJECT_DIR$/module_Multithreading/module_Multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_Reflection/module_Reflection.iml" filepath="$PROJECT_DIR$/module_Reflection/module_Reflection.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_Regex/module_Regex.iml" filepath="$PROJECT_DIR$/module_Regex/module_Regex.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_Thread/module_Thread.iml" filepath="$PROJECT_DIR$/module_Thread/module_Thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_Thread_Wait_Notify/module_Thread_Wait_Notify.iml" filepath="$PROJECT_DIR$/module_Thread_Wait_Notify/module_Thread_Wait_Notify.iml" />
